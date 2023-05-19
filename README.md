@@ -119,4 +119,12 @@ plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
 
-# OUPUT
+# OUPUT:
+
+
+
+
+
+#RESULT:
+
+Thus data visualisation is performed on the given data set using tools available in matplotlib and seaborn.
