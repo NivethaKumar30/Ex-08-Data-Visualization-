@@ -121,8 +121,53 @@ plt.show()
 
 # OUPUT:
 
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/87b83010-454b-4116-b811-b47823ad94f3)
 
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/80dc0443-ed92-4a22-aeb4-f57ef2b63f57)
 
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/589010d3-af6d-45d1-b4e2-7aa0aa8f3e99)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/0437e6a9-c62f-4b6b-b01a-ccbb5c4ab2b0)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/665f59c4-d54c-46ed-99b5-fc472233b7f1)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/b5ccf138-5734-4439-9b62-05458a89f936)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/1fb57eda-96a9-4446-98c9-dc4f2f4d841f)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/b529c52e-5bbc-4740-b092-8b9545e0c1b7)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/ed42487e-4b09-4c34-8816-7a91b83124bf)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/7e8914a0-651c-40e7-9887-b5b4dbad9918)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/da20cf84-f160-40dd-96b1-32083d193995)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/a928f28e-d8de-4d76-a5fd-c03a2eab13a7)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/77047a4b-a6c4-4616-9f3c-74c25ca33037)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/b800d777-9948-48e5-875e-48e7b57ea282)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/13340d39-84dc-48c1-921f-ab6b0a10a0e1)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/105fb8ed-8928-4195-887b-9b4ae798dc3c)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/3d45087d-0952-4c6f-8262-576bbeece5f6)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/f02ad0f6-1118-4e4c-9164-30115b2abab3)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/4a5d3860-f6da-4e08-a20d-f3efe4ca292a)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/385c547d-ea68-4951-82aa-9a19e71bdbb3)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/2f9d7f4f-3991-45f8-8fb1-1e95ca8dc8ef)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/b0433334-a4cb-48d0-82f9-e821b9950b68)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/064f837f-e903-48e2-830c-dea4ccd98150)
+
+![image](https://github.com/NivethaKumar30/Ex-08-Data-Visualization-/assets/119559844/443b4e1f-1723-457b-8238-4c4b84b40bcd)
 
 
 #RESULT:
